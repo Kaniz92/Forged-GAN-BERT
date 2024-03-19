@@ -1,4 +1,4 @@
-# Forged-GAN-BERT: Authorship Attribution for LLM-Generated Forged Novels
+# Authorship Attribution for LLM-Generated Forged Novels
 
 Forged-GAN-BERT is a modified GAN- BERT-based model to improve the classification of forged novels in two data-augmentation aspects: via the Forged Novels Generator (i.e., ChatGPT) and the generator in GAN. Compared to other transformer-based models, the proposed Forged-GAN-BERT model demonstrates an improved performance with F1 scores of 0.97 and 0.71 for identifying forged novels in single-author and multi-author classification settings. Additionally, we explore different prompt categories for generating the forged novels to analyse the quality of the generated texts using different similarity distance mea- sures, including ROUGE-1, Jaccard Similarity, Overlap Confident, and Cosine Similarity.
 
