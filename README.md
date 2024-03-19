@@ -9,6 +9,31 @@ Forged-GAN-BERT is a modified GAN- BERT-based model to improve the classificatio
 
 This repository contains the code and data used for our [EACL SRW paper](https://aclanthology.org/2024.eacl-srw.26/). And the code is available at [GitHub Repository](https://github.com/Kaniz92/Forged-GAN-BERT).
 
+## Dataset
+![Example](/.github/workflows/docs/assets/img/example_data.png)
+*Fig.1: Original Novel (top) and Forged Novel (bottom) - Little Novels by Wilkie Collins.*
+
+![prompts](/.github/workflows/docs/assets/img/prompts.png)
+*Table 1: Prompt examples per each parameter type*
+
+## Forged Novels Analysis
+![distance](/.github/workflows/docs/assets/img/distance.png)
+
+![distance results](/.github/workflows/docs/assets/img/bw_plot.png)
+*Prompt Type Impact Calculation using Similarity Scores*
+
+## Model Architecture
+
+![Model Architecture](/.github/workflows/docs/assets/img/Model.png)
+*Model Architecture*
+
+## Results
+![results 1](/.github/workflows/docs/assets/img/results1.png)
+*Comparison between ChatGPT and All Authors (Averaged) Binary Classifications using BERT Embedding as features*
+
+![results 2](/.github/workflows/docs/assets/img/results2.png)
+*Comparison between ChatGPT vs Human Binary Classifications using BERT Embedding as features.*
+
 ## Research Paper
 
 If you use these resources, please cite:
