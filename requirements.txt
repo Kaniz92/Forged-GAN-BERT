@@ -1,0 +1,15 @@
+transformers
+wandb
+sentencepiece
+datasets
+huggingface_hub
+sacremoses
+pandarallel
+simpletransformers
+torch
+scikit-learn
+nltk
+gensim
+torchtext
+openai==0.28
+python-dotenv
