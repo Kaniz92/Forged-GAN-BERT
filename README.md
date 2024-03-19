@@ -10,7 +10,7 @@ Forged-GAN-BERT is a modified GAN- BERT-based model to improve the classificatio
 This repository contains the code and data used for our [EACL SRW paper](https://aclanthology.org/2024.eacl-srw.26/). And the code is available at [GitHub Repository](https://github.com/Kaniz92/Forged-GAN-BERT).
 
 ## Dataset
-![Example](/.github/workflows/docs/assets/img/example_data.png)
+![Example](./.github/workflows/docs/assets/img/example_data.png)
 *Fig.1: Original Novel (top) and Forged Novel (bottom) - Little Novels by Wilkie Collins.*
 
 ![prompts](/.github/workflows/docs/assets/img/prompts.png)
